@@ -1,0 +1,24 @@
+Action
+#push
+
+Requirement
+#public repository
+#access token
+
+Steps
+#create an empty repository
+#clone the empty repo to your project
+#new device: create credentials
+
+check for user credentials
+#git config user.name
+#git config user.email 
+
+git config --global user.name "OLOWO-GOLD"
+git config --global user.email "idgold007@gmail.com"
+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
+
+git clone https://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@github.com/OLOWO-GOLD/Recent_Project_kwargs_args.git
+
+git add .
+git commit -m "first repo"
