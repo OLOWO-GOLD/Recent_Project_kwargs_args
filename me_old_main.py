@@ -46,38 +46,6 @@ print(abc)
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 #write 3 sum function. one to sum only even number and second odd numbers, prime numbers
 
 #list_to_sum = [1,2,3,4,5,6]
